@@ -11,7 +11,7 @@ A senior year university student, a software engineer who has a passion with web
 <img align="left" alt="Bootstrap" width="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
 <img align="left" alt="NodeJS" width="30px" src="https://swellaby.gallerycdn.vsassets.io/extensions/swellaby/node-pack/0.1.16/1593406607477/Microsoft.VisualStudio.Services.Icons.Default" />
 <br/><br/>
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phucthinh12121999&layout=compact&hide=html" /></div>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=phucthinh12121999&layout=compact&hide=html" /></div>
 <br />
 <details>
   <summary>Show GitHub Stats</summary>
